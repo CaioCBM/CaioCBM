@@ -4,9 +4,9 @@
   Hi there I'm Caio Cézar 👨‍🎨👨‍💻🐙
 </h1>
 
-<h5 align='center'>
-  I'm Front-End Developer, UI-UX Designer, Always Trying My Hardest and One Letter Alway from Having a Pretty Cool Name 😴😴😴
-</h5>
+<h3 align='center'>
+  I'm a Front-End Developer, UI-UX Designer, Always Trying My Hardest and One Letter Alway from Having a Pretty Cool Name 😴😴😴
+</h3>
 
 <p align='center'>
   Currently living in Palmas-TO, Brazil, and born in the heart of Tapajós, Santárem-PA, Brazil.
@@ -16,16 +16,9 @@
 
 <p align='center'>
   
-  <!--<a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
-    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
-  </a>&nbsp;&nbsp;-->
   <a href="https://www.linkedin.com/in/caiocbm/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/alexandresanlim">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
 </p>
 
 <p align='center'>
