@@ -3,8 +3,6 @@
 <h1>
   Hi there I'm Caio Cézar 👨‍🎨👨‍💻🐙
 </h1>
-<
-
 <h3>
   I'm a Front-End Developer, UI-UX Designer, Always Trying My Hardest and One Letter Alway from Having a Pretty Cool Name 😴😴😴
 </h3>
