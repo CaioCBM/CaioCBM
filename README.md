@@ -4,8 +4,11 @@
   Hi there I'm Caio Cézar 👨‍🎨👨‍💻🐙
 </h1>
 
-  <a href="https://linkedin.com/in/caiocbm"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
-
+  <a href="https://linkedin.com/in/caiocbm"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">
+</a>
+  <a href="mailto:caiocbm0900@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
 
 <h3>
   I'm a Front-End Developer, UI-UX Designer, Always Trying My Hardest and One Letter Alway from Having a Pretty Cool Name 😴😴😴
@@ -28,9 +31,6 @@
 
 <p> 📭Want to talk?📮</p>
 <p>
-  <a href="mailto:caiocbm0900@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;
 
 <details>
   <summary>📃 Resume</summary>
