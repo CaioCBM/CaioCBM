@@ -29,6 +29,7 @@
 
 
 **About me?**
+<quote> "A picture is worth a thousand words" - Frederick R. Barnard, or Confucius, idk</quote>
 
 <a href="https://discord.gg/WjEFnzC"><img alt="Discord - Miku#0039" title="Discord - Miku#0039" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
   <a href="https://myanimelist.net/profile/PeterTheHan"><img alt="MyAnimeList" title="MyAnimeList" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/myanimelist.svg"></a>
