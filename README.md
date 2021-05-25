@@ -18,7 +18,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/caiocbm/caiocbm/master/assets/figma.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/caiocbm/caiocbm/master/assets/figma.png"></code>
 
 
 **Planning to Learn:**
@@ -41,5 +41,7 @@ Well, well, well... <code>"A picture is worth a thousand words"</code> - Frederi
   <a href="https://youtube.com/channel/UC5QVwln-tycBa-CoB88a7wA"><img alt="YouTube" title="YouTube" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg"></a>
 <a href="#"><img alt="Arknights - Phos#3548" title="Arknights - Phos#3548" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/arknights.svg"></a>
   <a href="#"><img alt="Destiny 2 - Phos" title="Destiny 2 - Phos" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/destiny.svg"></a>
+  <a href="#"><img alt="Destiny 2 - Phos" title="Destiny 2 - Phos" height="32" width="32" 
+src="https://raw.githubusercontent.com/caiocbm/caiocbm/master/assets/Genshin.png"></a>
   <a href="#"><img alt="Epic Games - PeterTheHan" title="Epic Games - PeterTheHan" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/epicgames.svg"></a>
    <a href="https://steamcommunity.com/id/peterthehan"><img alt="Steam" title="Steam" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg"></a>
