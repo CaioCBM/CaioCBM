@@ -1,19 +1,20 @@
 
 
-<h1 align='center'>
+<h1>
   Hi there I'm Caio Cézar 👨‍🎨👨‍💻🐙
 </h1>
+<
 
-<h3 align='center'>
+<h3>
   I'm a Front-End Developer, UI-UX Designer, Always Trying My Hardest and One Letter Alway from Having a Pretty Cool Name 😴😴😴
 </h3>
 
-<p align='center'>
+<p>
   Currently living in Palmas-TO, Brazil, and born in the heart of Tapajós, Santárem-PA, Brazil.
 </p>
 
-<p> 📪 Want to talk?📮</p>
-<p align='center'>
+<p> 📭Want to talk?📮</p>
+<p>
   <a href="mailto:caiocbm0900@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
