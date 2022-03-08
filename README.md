@@ -31,10 +31,10 @@
 
 Well, well, well... <code>"A picture is worth a thousand words"</code> - Frederick R. Barnard, or Confucius, idk.
 
-<a href="https://discord.gg/WjEFnzC"><img alt="Discord - Miku#0039" title="Discord - Miku#0039" height="32" width="32"
+<a><img alt="Discord - Miku#0039" title="Discord - Miku#0039" height="32" width="32"
     src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
-<a href="https://myanimelist.net/profile/PeterTheHan"><img alt="MyAnimeList" title="MyAnimeList" height="32" width="32"
-    src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/myanimelist.svg"></a>
+<a href="https://anilist.co/user/SethTheNeb/animelist"><img alt="MyAnimeList" title="MyAnimeList" height="32" width="32"
+    src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/anilist.svg"></a>
 <a href="https://reddit.com/user/PeterTheHan"><img alt="Reddit" title="Reddit" height="32" width="32"
     src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg"></a>
 <a href="https://open.spotify.com/user/2145isvugpczeo2fgz6khel3y"><img alt="Spotify" title="Spotify" height="32"
