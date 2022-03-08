@@ -7,8 +7,7 @@
 </a>
 
 <h3>
-  I'm a Front-End Developer, UI-UX Designer, Always Trying My Hardest and One Letter Alway from Having a Pretty Cool
-  Name 😴😴😴
+  I'm a UI-UX Designer, Front-End Developer, Always Trying My Hardest and Big Fan of a Lot of Things 😴😴😴
 </h3>
 
 **Working with these Languages and Tools:**
